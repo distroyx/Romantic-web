@@ -1,0 +1,9 @@
+{
+  "name": "personal-gift-page",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve .",
+    "dev": "npx --yes serve ."
+  }
+}
